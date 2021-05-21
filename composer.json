@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Recharge\\": "src\\Recharge"
+    }
+  },
+  "name": "recharge/parking",
+  "description": ""
+}
